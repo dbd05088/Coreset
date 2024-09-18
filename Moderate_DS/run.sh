@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 nohup python selection.py --dataset DomainNet --rate 0.819 --model CLIP --data_dir ../DomainNet &
